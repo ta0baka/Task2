@@ -1,0 +1,6 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.Laboratory2" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+    <style name="Theme.Laboratory2" parent="Base.Theme.Laboratory2" />
+</resources>
