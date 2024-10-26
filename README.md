@@ -13,7 +13,7 @@
 <img src="https://sun9-15.userapi.com/impg/MQLxHXuF3UL0O6q95Iklb8gquCVeMMlz8y1ANA/_6BUO_ccvIE.jpg?size=720x1520&quality=95&sign=917df722554076f66edfe152d6487639&type=album" width="250" height="500"> 
 </p>
 
-Экран 2
+## Экран 2
 
 После нажатия на `Button 2` пользователь переходит ко второму экрану (`MainActivity2`). Верстка осуществлена с использованием `LinearLayout`, ширина кнопок задавалась в процентах от ширины экрана.
 <p align="center">
