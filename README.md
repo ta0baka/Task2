@@ -28,5 +28,5 @@
 ## Экран 4
 После нажатия на `BUTTON3` в меню приложения, пользователь переходит к четевртому экрану (`MainActivity4`). На нем расположена кнопка, выровненная по центру экрана. Цвет обводки кнопки #505050. Толщина обводки в соответствии с месяцем моего рождения (1). Радиус скругления 24dp. Цвет фона экрана #FFFFFF. При нажатии на кнопку ее цвет изменяется на светло-зеленый.
 <p align="center">
-<img src="https://sun9-11.userapi.com/impg/RAiXVHXg1brN0Jo-udTngj3tBBlTZOUE8GYe1A/0Htm8k239ec.jpg?size=720x1520&quality=95&sign=3571519a9e70ee64f31b9020e980c2d1&type=album" width="250" height="500"> <img src="https://sun9-78.userapi.com/impg/HoeVuaweocPXgxCxcUsZCEyV6bczeGrRFZRqQg/44Py5tjHODU.jpg?size=720x1520&quality=95&sign=d5f96e58ce8c31993603ad68c6238829&type=album" width="250" height="500">
+<img src="https://sun9-11.userapi.com/impg/RAiXVHXg1brN0Jo-udTngj3tBBlTZOUE8GYe1A/0Htm8k239ec.jpg?size=720x1520&quality=95&sign=3571519a9e70ee64f31b9020e980c2d1&type=album" width="250" height="500"> <img src="https://sun9-39.userapi.com/impg/HtlbMEPmWTJF4SlSktygf1CJ5-QkQhjBFPtt2Q/xq-i-MEzzM8.jpg?size=720x1520&quality=95&sign=22973795e1437142da86b2069f98ee8c&type=album" width="250" height="500">
 </p>
