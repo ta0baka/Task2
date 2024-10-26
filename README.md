@@ -14,7 +14,7 @@
 </p>
 
 ## Экран 2
-После нажатия на `BUTTON1` в меню приложения, пользователь переходит ко второму экрану (`MainActivity2`). Верстка осуществлена с использованием `LinearLayout`, ширина кнопок задавалась в процентах от ширины экрана.
+После нажатия на `BUTTON1` в меню приложения, пользователь переходит ко второму экрану (`MainActivity2`). Верстка осуществлена с использованием `LinearLayout`.
 <p align="center">
 <img src="https://sun9-5.userapi.com/impg/ZsZQFSPKFpK_hVOZwksagSPXAJVIa-TlYVwKPQ/-9p1HZf6_dQ.jpg?size=720x1520&quality=95&sign=46e5efecf3d5bf7e941dc90259e8644f&type=album" width="250" height="500"> 
 </p>
