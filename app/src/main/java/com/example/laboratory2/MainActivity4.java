@@ -4,6 +4,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 import androidx.appcompat.app.AppCompatActivity;
+import android.graphics.drawable.GradientDrawable;
 
 public class MainActivity4 extends AppCompatActivity {
 
@@ -15,7 +16,10 @@ public class MainActivity4 extends AppCompatActivity {
         button.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                button.setBackgroundColor(Color.GREEN);
+                GradientDrawable drawable = new GradientDrawable();
+                drawable.setColor(Color.GREEN);
+                drawable.setCornerRadius(27f);
+                button.setBackground(drawable);
             }
         });
     }

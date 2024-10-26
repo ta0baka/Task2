@@ -67,7 +67,7 @@
         android:layout_height="wrap_content"
         android:orientation="horizontal"
         android:layout_gravity="bottom"
-        android:layout_marginTop="280dp">
+        android:layout_marginTop="230dp">
 
         <Button
             android:id="@+id/button6"
@@ -75,26 +75,25 @@
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:background="#505050"
-            android:text="Button6"
-            android:textDirection="locale" />
+            android:text="Button 6" />
 
         <Button
             android:id="@+id/button7"
             android:layout_width="2dp"
             android:layout_height="wrap_content"
-            android:text="Button7"
+            android:layout_marginStart="16dp"
             android:background="#505050"
             android:layout_weight="1"
-            android:layout_marginStart="15dp" />
+            android:text="Button 7" />
 
         <Button
             android:id="@+id/button8"
-            android:layout_width="100dp"
+            android:layout_width="0dp"
             android:layout_height="wrap_content"
-            android:text="Button8"
+            android:layout_marginStart="16dp"
             android:background="#505050"
             android:layout_weight="1"
-            android:layout_marginStart="15dp" />
+            android:text="Button 8" />
     </LinearLayout>
 
 </LinearLayout>
